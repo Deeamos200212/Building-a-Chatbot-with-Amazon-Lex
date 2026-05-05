@@ -3,13 +3,13 @@ Build a chatbot using Amazon Lex and the AWS Console
 
 Amazon Lex Chatbot — Banking Bot
 
-https://img.shields.io/badge/AWS-Lex-orange?logo=amazonaws
+![AWS Lex](https://img.shields.io/badge/AWS-Lex-orange?logo=amazonaws)
 
-https://img.shields.io/badge/Status-Completed-brightgreen  
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
-https://img.shields.io/badge/Category-AI%2FChatbot-blue
+![Category](https://img.shields.io/badge/Category-AI%2FChatbot-blue)
 
-https://img.shields.io/badge/Time%20Spent-A%20few%20hours-lightgrey
+![Time Spent](https://img.shields.io/badge/Time%20Spent-A%20few%20hours-lightgrey)
 
 Table of Contents
 Project Overview
